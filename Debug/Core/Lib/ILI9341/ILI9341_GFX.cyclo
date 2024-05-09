@@ -1,0 +1,6 @@
+../Core/Lib/ILI9341/ILI9341_GFX.c:53:6:ILI9341_Draw_Hollow_Circle	4
+../Core/Lib/ILI9341/ILI9341_GFX.c:88:6:ILI9341_Draw_Filled_Circle	5
+../Core/Lib/ILI9341/ILI9341_GFX.c:125:6:ILI9341_Draw_Hollow_Rectangle_Coord	7
+../Core/Lib/ILI9341/ILI9341_GFX.c:175:6:ILI9341_Draw_Filled_Rectangle_Coord	5
+../Core/Lib/ILI9341/ILI9341_GFX.c:223:6:ILI9341_Draw_Char	7
+../Core/Lib/ILI9341/ILI9341_GFX.c:262:6:ILI9341_Draw_Text	2

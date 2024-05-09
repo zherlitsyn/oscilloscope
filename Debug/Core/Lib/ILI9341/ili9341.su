@@ -1,0 +1,14 @@
+../Core/Lib/ILI9341/ili9341.c:12:20:ILI9341_WriteCommand	16	static
+../Core/Lib/ILI9341/ili9341.c:19:20:ILI9341_WriteByte	16	static
+../Core/Lib/ILI9341/ili9341.c:26:20:ILI9341_WriteBuffer	32	static
+../Core/Lib/ILI9341/ili9341.c:39:20:ILI9341_SetAddressWindow	32	static
+../Core/Lib/ILI9341/ili9341.c:68:20:ILI9341_Reset	16	static
+../Core/Lib/ILI9341/ili9341.c:75:6:ILI9341_Init	16	static
+../Core/Lib/ILI9341/ili9341.c:214:6:ILI9341_InvertColors	16	static
+../Core/Lib/ILI9341/ili9341.c:221:6:ILI9341_DrawPixel	40	static
+../Core/Lib/ILI9341/ili9341.c:237:13:ILI9341_Fill	88	dynamic
+../Core/Lib/ILI9341/ili9341.c:268:6:ILI9341_FillScreen	24	static
+../Core/Lib/ILI9341/ili9341.c:276:6:ILI9341_FillRectangle	32	static
+../Core/Lib/ILI9341/ili9341.c:293:6:ILI9341_Rectangle	32	static
+../Core/Lib/ILI9341/ili9341.c:301:13:ILI9341_WriteChar	56	static
+../Core/Lib/ILI9341/ili9341.c:321:6:ILI9341_WriteString	48	static

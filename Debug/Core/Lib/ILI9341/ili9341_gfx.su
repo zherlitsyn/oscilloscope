@@ -1,0 +1,17 @@
+../Core/Lib/ILI9341/ili9341_gfx.c:61:21:ili9341_rgb_wheel	24	static
+../Core/Lib/ILI9341/ili9341_gfx.c:88:17:ili9341_color_wheel	24	static
+../Core/Lib/ILI9341/ili9341_gfx.c:94:6:ili9341_spi_tft_set_address_rect	40	static
+../Core/Lib/ILI9341/ili9341_gfx.c:115:6:ili9341_transmit_wait	16	static
+../Core/Lib/ILI9341/ili9341_gfx.c:124:6:ili9341_transmit_color	24	static
+../Core/Lib/ILI9341/ili9341_gfx.c:136:6:ili9341_draw_pixel	40	static
+../Core/Lib/ILI9341/ili9341_gfx.c:155:6:ili9341_draw_line	64	static
+../Core/Lib/ILI9341/ili9341_gfx.c:225:6:ili9341_draw_rect	40	static
+../Core/Lib/ILI9341/ili9341_gfx.c:234:6:ili9341_fill_rect	64	static
+../Core/Lib/ILI9341/ili9341_gfx.c:273:6:ili9341_draw_circle	40	static
+../Core/Lib/ILI9341/ili9341_gfx.c:310:6:ili9341_fill_circle	40	static
+../Core/Lib/ILI9341/ili9341_gfx.c:317:6:ili9341_fill_screen	24	static
+../Core/Lib/ILI9341/ili9341_gfx.c:323:6:ili9341_draw_bitmap_1b	56	static
+../Core/Lib/ILI9341/ili9341_gfx.c:370:6:ili9341_draw_char	88	static
+../Core/Lib/ILI9341/ili9341_gfx.c:425:6:ili9341_draw_string	40	static
+../Core/Lib/ILI9341/ili9341_gfx.c:460:23:ili9341_clip_rect	24	static
+../Core/Lib/ILI9341/ili9341_gfx.c:505:13:ili9341_fill_quarter_circle	56	static
